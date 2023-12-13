@@ -1,0 +1,7 @@
+C:\универ\software_engineering_team_city\GCD_2\GCD_2\bin\Debug\GCD_2.exe.config
+C:\универ\software_engineering_team_city\GCD_2\GCD_2\bin\Debug\GCD_2.exe
+C:\универ\software_engineering_team_city\GCD_2\GCD_2\bin\Debug\GCD_2.pdb
+C:\универ\software_engineering_team_city\GCD_2\GCD_2\obj\Debug\GCD_2.csproj.AssemblyReference.cache
+C:\универ\software_engineering_team_city\GCD_2\GCD_2\obj\Debug\GCD_2.csproj.CoreCompileInputs.cache
+C:\универ\software_engineering_team_city\GCD_2\GCD_2\obj\Debug\GCD_2.exe
+C:\универ\software_engineering_team_city\GCD_2\GCD_2\obj\Debug\GCD_2.pdb

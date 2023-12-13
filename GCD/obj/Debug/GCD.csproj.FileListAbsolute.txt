@@ -1,7 +1,0 @@
-C:\универ\software_engineering_team_city\GCD\bin\Debug\GCD.exe.config
-C:\универ\software_engineering_team_city\GCD\bin\Debug\GCD.exe
-C:\универ\software_engineering_team_city\GCD\bin\Debug\GCD.pdb
-C:\универ\software_engineering_team_city\GCD\obj\Debug\GCD.csproj.AssemblyReference.cache
-C:\универ\software_engineering_team_city\GCD\obj\Debug\GCD.csproj.CoreCompileInputs.cache
-C:\универ\software_engineering_team_city\GCD\obj\Debug\GCD.exe
-C:\универ\software_engineering_team_city\GCD\obj\Debug\GCD.pdb
