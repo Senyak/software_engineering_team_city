@@ -1,6 +1,6 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using GCD;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using GCD;
 
 namespace TestGCD
 {
@@ -31,5 +31,6 @@ namespace TestGCD
         {
             Assert.ThrowsException<ArgumentException>(() => { Program.GCD(0, 0); });
         }
+
     }
 }
